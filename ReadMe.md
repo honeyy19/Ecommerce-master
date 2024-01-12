@@ -57,8 +57,8 @@ _data
 
 ## 🚀 About Me
 
-**Swaraj Kumar Singh** - Android, IOS & Flutter Developer, Full Stack Web developer, Also interested in AI models, Machine Learning and WEB 3.0.
+**Honey Kumari** - Full Stack Web developer, Also interested in AI models, Machine Learning and WEB 3.0.
 
 
 ## 🛠 Skills
-Javascript, HTML, CSS, REACT, ANGULAR, BOOTSTRAP, TAILWIND, TYPESCRIPT, PHP, NODEJS, DJANGO, EXPRESSJS, MONGODB, FIREBASE, REDIS, WORDPRESS, DYNAMODB, AWS, PYTHON, WEB SCRAPING, SOCKET.IO, JAVA, KOTLIN, DART, FLUTTER, PYTORCH, FLUTTER, DART
+Javascript, HTML, CSS, REACT, ANGULAR, BOOTSTRAP, TAILWIND,  NODEJS, DJANGO, EXPRESSJS, MONGODB, AWS, PYTHON, WEB SCRAPING, SOCKET.IO, JAVA,PYTORCH, FLUTTER, 
